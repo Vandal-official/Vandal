@@ -1,5 +1,0 @@
-#!/usr/bin/env php
-<?php
-$app = require './bootstrap/app.php';
-$kernel = new \App\Console\Kernel();
-$kernel->run();
